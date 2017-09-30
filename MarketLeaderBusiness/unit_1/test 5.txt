@@ -1,22 +1,17 @@
-1) I know you couldn't attend the meeting, so here's a summary of the main points just to 
-put you in the picture. 
-2) Let me come straight to the point: I think your performance is totally unsatisfactory.
-3) I want to be kept in the loop. I don't want important decisions to be taken without me.
-4) I thought it was a rumour, but today I got it straight from the horse's mouth. Andrew told me he was resigning.
-5) Fortunately Sue and I are on the same wavelength so we hardly ever disagree about anything.
-
-1 We'll discuss it over lunch.
-2 I'll get straight to the point.
-3 They'll put me in the picture, won't they?
-4 I'm afraid we're going to have to let you go.
-
-1 Did you manage to have a quick word with her? (up)
-2 Why didn't you drop a hint to Ana? (down)
-3 Do you like giving presentations? (up)
-4 What time is your talk? (down)
-a) A yes /no  question is usually asked with the voice going up at the end.
-b) A question starting with a question word is usually asked with the voice going down at the end.
-
+========================================
+1) We'll discuss it over lunch.
+2) I'll get straight to the point.
+3) They'll put me in the picture, won't they?
+4) I'm afraid we're going to have to let you go.
+========================================
+1) Did you manage to have a quick word with her? (up)
+2) Why didn't you drop a hint to Ana? (down)
+3) Do you like giving presentations? (up)
+4) What time is your talk? (down)
+	a) A yes /no  question is usually asked with the voice going up at the end.
+	b) A question starting with a question word is usually asked with the voice going down at the end.
+========================================
+IDIOMS_2
 1) E-mail me every day to keep me up to date with the latest developments, will you?
 2) When she was told she'd been nominated Businesswoman of the Year, she was at a loss for words.
 3) Could you briefly give me the low-down on their financial situation before our meeting this afternoon?

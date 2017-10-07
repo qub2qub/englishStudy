@@ -1,16 +1,50 @@
 page 10
 
 to put it in a nutshell
-to get straight to the point
-to hear it on the grapevine
-to put someone in the picture
-to get the wrong end of the stick
-to be on the same wavelength
-can't make head nor tail of it/smth
-to talk at cross-purposes
-to beat about the bush
-to get it straight from the horse's mouth
-to be like talking to the brick wall
-to keep someone in the loop
+	to give the main facts in a short, clear way
+	/The new organogram is very complicated, but to put it in a nutshell. we still report to the same manager.
 
+to get straight to the point
+	to talk about most important things
+	/OK, I'll get straight to the point. I'm afraid it's the last time we're going to miss a deadline
+
+to hear it on the grapevine /ˈɡreɪpvaɪn/
+	to hear about smt bacause the information has bee passed from one person to another in converstion
+	/ I heard on the grapevine that he's been fired. Is it true?
+
+to put someone in the picture
+	to give the latest information
+	/A lot happened whole you were on holiday. Let me put you in the picture.
+
+to get the wrong end of the stick
+	to not understnd something
+	/I'm afraid that it isn't right. If you think our biggest problem is commenication, then you have the wrong end of the stick.
+
+to be on the same wavelength
+	to share similar opinions and ideas
+	/Paola and I agree on most things. We seem to be on the same wavelength.
+
+can't make head nor tail of it/smth
+	to fail to understand anything
+	/This document from our subsidiary makes no sense at all. I can't make head nor tail of it.
+
+to talk at cross-purposes
+	to not understand someone 
+	/I think we are talking at cross puproses. I mean next week, not this week.
+
+to beat about the bush
+	to delay talking about smt
+	/He never gives you a stright answer. He's always beating about the bush.
+
+to get it straight from the horse's mouth
+	to be told smt by someone who has direct knowledge of it
+	/The company is going bankrupt. The CEO told me himself. I heard it straight from the horse's mouth
+
+to be like talking to the brick wall
+	to try to communicate with an unresponsive person
+	/I've tried to get me supplier to give us a discount several times, but they just won't. It'like talking to the brick wall.
+
+to keep someone in the loop
+	to include someone in group communication
+	/I'll need regular update about the progress of the project. I'll also need to know what's going on when I'm away. Please keep me in the loop.
 

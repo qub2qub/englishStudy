@@ -1,0 +1,22 @@
+Secretary:	 - Good morning. Roma Kitchens. How can I help you?
+Caller:	 	- Hello. I'd like to speak to Paula Vecchi, please.
+Secretary:	 - Who shall I say is calling?
+Caller:	 	- Hornby, Ron Hornby of Furniture World.
+Secretary:	 - Sorry, it's not a very good line Could you say that again, please?
+Caller:	 	- Sure. Ron Hornby, of Furniture World .
+Secretary:	 - Just one moment, please, Mr Hornby, I'll just find out if she's back yet I'm afraid she isn't in her office. Is there anything I can do for you?
+Caller:	 	- Well, it's rather urgent. The reason I'm calling is to fix a meeting at the Trade Fair next week. Could you ask her to call me back later today? I'll be in the office till 5.30.
+Secretary:	 - And I'll take your phone number just in case …
+Caller:	 	- Sure. That's 020 8543 3553.
+Secretary:	 - Can I just read that back to you? 020 8543 3553.
+Caller:	 	- That's correct. Thank you for your help.
+Secretary:	 - Not at all, Mr Hornby. I'll make sure she gets the message as soon as she's back. Goodbye.
+Caller:	 	- Goodbye.
+
+ROMA KITCHENS
+Day: Tues  Time:10.45
+To: Paula Vecchi
+Caller: Ron HornbyCompany: Furniture World
+SHE/HE:HE
+• wants you to phone back on (number): 020 8543 3553
+• left this message: when can you meet him at the Trade Fair next week

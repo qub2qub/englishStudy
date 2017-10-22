@@ -1,4 +1,7 @@
+vivaldi://settings/content
+vivaldi://chrome/settings/content
 KATSIARYNA MIATSELSKAYA 
+
 www.netspeak.com
 quizlet.com
 https://www.vocabtrainer.net
@@ -13,3 +16,4 @@ https://myenglishlab.pearson-intl.com/
 
 перевод-значения слов
 http://dictionary.cambridge.org/dictionary/english/irritable
+

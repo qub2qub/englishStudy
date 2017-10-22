@@ -6,17 +6,34 @@ I can't get through.
 It seems we've got a crossed line. (interference on a telephone line that causes more than two callers to be connected)
 The line's very faint. (My telephone line is quiet / faint )
 Sorry, I didn't understand that.
-I'm afraid his line's engaged.
+I'm afraid his line's engaged. (линия занята)
 
 
+I can't get through. --- Why's that? Still engaged?
+It seems we've got a crossed line. --- Yeah. I'll hang up and call you back.
+The line's very faint. --- Right. I'll try and speak up a bit.
+Sorry, I didn't understand that. --- Well, I'll go over it again, then.
+I'm afraid his line's engaged. --- No problem. I'll hold.
 
-It seems we've got a crossed line.
-The line's very faint.
-Sorry, I didn't understand that.
-I'm afraid his line's engaged.
-
-Well, I'll go over it again, then.
-Yeah. I'll hang up and call you back.
-No problem. I'll hold.
-Right. I'll try and speak up a bit.
-Why's that? Still engaged?
+a) the person speaks too fast or too quietly 
+--Could you slow down a little, please?
+--Could you speak up, please?
+= slow down / speak up
+b) you want someone to stop talking while you do something 
+--Could you hold on a second while I get a pen?
+=hold on / could I interrupt you 
+c) you don't understand a word/expression the other person uses 
+--I didn't catch that / Sorry, I don't follow you. / Sorry, did you say .. ?
+=what was that = could you repeat = I didn't quite catch it = I didn't quite get it
+d) you want to make sure of the spelling of something 
+--could you spell that for me, please
+=spell it for me
+e) you want more information about a subject 
+= go over it again
+=
+f) the connection is not good and you can't continue the conversation 
+--bad line / awful line / I'll call you back
+= the sound is breaking up = you are cutting out = the sound is distorted
+g) you want to confirm some information 
+--Let me check that
+=Can you just read that back to me

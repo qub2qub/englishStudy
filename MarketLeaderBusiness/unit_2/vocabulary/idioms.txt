@@ -1,0 +1,8 @@
+On the face of it - судя по виду; на первый взгляд.
+This is no accident. - Это не случайно.
+That said,.. - Тем не менее,
+scrutiny - изучение, исследование, наблюдение; пристальное внимание; 
+careful scrutiny - тщательная проверка
+slap yourself on the forehead - хлопнуть себя по лбу
+
+so you are probably better off with the bounded type token unless you need the flexibility to combine operations of multiple implementation types.

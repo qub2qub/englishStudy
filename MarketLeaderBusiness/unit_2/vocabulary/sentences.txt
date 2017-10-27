@@ -1,0 +1,39 @@
+Had the check been omitted, the method would return a reference..
+
+On the contrary, you should design methods to be as general as it is practical to make them.
+
+The modest work that it entails will be paid back with interest the first time a validity check fails.
+
+Either way, it is worth taking the time to ...
+
+That said, you are generally better off using a constructor or static factory, for reasons outlined in Item 11.
+
+..then it may be appropriate to dispense with defensive copying.
+
+..would harm no one but the client
+
+When in doubt, leave it out.
+
+but you’re still much better off with short parameter lists.
+
+Either way, it is worth taking the time to write classes that are robust in the face of ill-behaved clients.
+
+then it may be appropriate to dispense with defensive copying.
+
+Exactly what constitutes a confusing use of overloading is open to some debate.
+
+smt can easily confound these expectations.
+
+so it pays to know how to do it safely.
+
+you are retrofitting an existing class to implement a new interface
+
+This solution corrects all the deficiencies of the previous one
+
+there is a pattern that lets you have your cake and eat it too.
+
+It is not uncommon to see... [methods that look something like this]
+
+in the midst of processing
+Under these circumstances,..
+the nuts and bolts of the ..

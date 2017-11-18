@@ -66,3 +66,18 @@ but this does nothing to diminish the point.
 
 You can obtain many of the benefits of reflection while incurring few of its costs by using it only in a very limited form.
 
+.. that purport to offer better performance. 
+
+ALL OTHER THINGS BEING EQUAL, ...
+
+The cardinal rule in deciding whether to use ...smt
+
+In a word, never. == типа краткий и ёмкий ответ одним словом
+
+For example, consider the case of resource exhaustion, which can be caused by ..
+
+a genuine shortage of resources. 
+
+you’re probably better off using an unchecked exception..
+
+to ferret out additional information -- [`ferıt`aʊt] --  вынюхивать, разведывать, выпытывать, разузнавать

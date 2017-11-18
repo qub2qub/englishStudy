@@ -8,7 +8,7 @@ unorganized <- совмем не организованный 0%
 disorganized <- немного есть 10-30% но всё равно не получается
 
 work antisocial hours
-work ungody hours
+work ungodLy hours / Ungodly hour
 work the graveyard shift = work at night
 owl - сова
 call smb - call colleague <- без предлога
@@ -40,3 +40,4 @@ why not meet tomorrow
 why not discuss it right now
 
 you break the ice to establish repport [рэпо]
+

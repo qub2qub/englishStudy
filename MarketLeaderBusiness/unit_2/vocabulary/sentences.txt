@@ -35,6 +35,8 @@ there is a pattern that lets you have your cake and eat it too.
 It is not uncommon to see... [methods that look something like this]
 
 in the midst of processing
+even if the failure occurred in the midst of performing an operation. 
+
 Under these circumstances,..
 the nuts and bolts of the ..
 
@@ -81,3 +83,37 @@ a genuine shortage of resources.
 you’re probably better off using an unchecked exception..
 
 to ferret out additional information -- [`ferıt`aʊt] --  вынюхивать, разведывать, выпытывать, разузнавать
+
+hard-and-fast rules - жёсткое правило (безоговорочное/безусловное/непреложное)
+
+ if it isn’t feasible to prevent or to handle smt ... (then do smt)
+
+Lengthy prose descriptions of the failure are generally superfluous; 
+the information can be gleaned by reading the source code.
+
+leave the object in the state that it was in prior to the invocation.
+
+it bears repeating.
+
+You may get away with it, or the results may be disastrous.
+
+At the very least, 
+
+at a point in the code that bears no apparent relation to the source of the problem.
+
+which is tailor-made for this purpose. - сделанный по заказу; приспособленный
+
+A few more details bear noting.
+Two variants of the double-check idiom bear noting. 
+
+condition already holds - условие уже выполнено
+
+There are several reasons a thread might wake up when the condition does not hold.
+
+great care must be taken to ensure liveness.
+
+It is imperative that the user manually synchronize on the returned map
+
+...but this flexibility comes at a price.
+
+While this example may seem a bit far-fetched, it’s not uncommon to see smt

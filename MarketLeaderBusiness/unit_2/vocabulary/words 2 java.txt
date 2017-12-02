@@ -245,3 +245,213 @@ rule out [`ru:l`aʊt]
 /the rain ruled out outdoor games
 
 mildly preferable -- 
+
+disconcerting [dɪskənˈsɜːtɪŋ] 
+    дезориентирующий, обескураживающий (misleading, discouraging)
+    замешательство (confused)
+
+insulating [ˈɪnsjʊleɪtɪŋ]
+	изоляционный, диэлектрический (insulation, dielectric)
+	/insulating tape
+1. изолирующий     (isolating)
+2. изолированный    (insulated)
+	/ Pipes may need insulating against the cold.
+	/ The royal family tried to insulate him from the prying eyes of the media.
+
+insulate [ˈınsjʊ,leıt]
+1) to prevent or reduce the transmission of electricity, heat, or sound to or from (a body, device, or region) by surrounding with a nonconducting material
+2) to isolate or detach
+
+feasible [ˈfiːzəbl] adjective
+1. возможный, вероятный, правдоподобный (о предложении, проекте, истории, теории и т. п.) (possible, probable, plausible)
+	/a plan, idea, or method that is feasible is possible and is likely to work
+    /feasible solution - возможное решение
+    /It was no longer financially feasible to keep the community centre open.
+2. осуществимый, выполнимый, достижимый (practicable, doable, achievable)
+--реализуемый (implement)
+--if an idea or plan is feasible, it is possible and you can find a practical way of doing it
+        /practically feasible - практически осуществимый
+        /quite feasible - вполне выполнимый
+3. реальный (realistic) выполнимый, осуществимый (о замысле, плане и т. п.)
+        /feasible plan - реальный план
+4. целесообразный, обоснованный (appropriate, reasonable)
+        /economically feasible - экономически обоснованный
+5. посильный 
+6. допустимый (permissible)
+        /feasible set - допустимое множество
+7. практически осуществимый (practically feasible)
+8. технологичный (technological)
+9. подходящий, годный (appropriate)
+
+hinder [ˈhɪndə] 
+1) задерживать, сдерживать (detain, restrain), затруднять; мешать, препятствовать (чему-л.)
+2) быть помехой (в чём-л.) (impede, interfere, difficult)
+3) тормозить (inhibit)
+-- to make it difficult for something to develop or succee
+	/His career has been hindered by injury.
+	/policies that will hinder rather than help families
+!!! Do not confuse with PREVENT (=to make it impossible for someone to do something): His poor health prevented him from going to work 
+(!! NOT !! His poor health hindered him from going to work).
+
+obscure [əbˈskjʊə] 
+1. неясный, непонятный, смутный, невразумительный, туманный, малопонятный
+    (unclear, vague, unintelligible, incomprehensible)
+        obscure points - неясные моменты
+        obscure disease - непонятная болезнь
+        obscure feeling - смутное ощущение
+2. темный, мрачный (dark); затемнять, затенять, затемнить (darken, shade)
+        obscure corner - темный уголок
+3. малоизвестный
+4. неизвестный, безвестный (unknown)
+5. незаметный (invisible)
+6. скрывать (hide)
+        obscure the truth - скрывать правду
+7. затмевать, загораживать, заслонять, затмить, заслонить, затушевывать
+    (overshadow, block, shield, blur)
+
+undergo [ʌndəˈgəʊ] 
+1. подвергаться, подвергнуться, претерпевать, перенести, подлежать, подвергнуть
+    (expose, suffer, subject)
+        undergo a test - подвергаться испытанию
+        undergo surgery - перенести операцию
+2. испытывать, переносить, испытать (experience, endure)
+3. проходить (pass)
+        undergo rehabilitation - проходить реабилитацию
+4. пережить (survive)
+
+pertinent [ˈpɜːtɪnənt] 
+1) уместный, соответствующий, актуальный (appropriate, relevant)
+-- relating to the matter at hand; relevant
+        pertinent information - уместная информация
+        pertinent documents - соответствующие документы
+        pertinent questions - актуальные вопросы
+2) имеющий отношение, относящийся к делу (appropriate, relevant)
+-- relating directly to the subject being considered
+	/He asked me a lot of very pertinent questions.
+	/The last point is particularly pertinent to today’s discussion
+
+glean [gliːn] 
+1. подбирать колосья (после жатвы), виноград (после сбора) и т. п.
+2. подбирать (различные ненужные предметы)
+3. тщательно подбирать, собирать (факты, сведения; по мелочам, обрывкам)
+	/Additional information was gleaned from other sources.
+1) to gather (something) slowly and carefully in small pieces
+2) to gather (the useful remnants of a crop) from the field after harvesting
+
+intelligibility [ınˏtelıʤə`bılıtı] 
+1) внятность, ясность, чёткость, разборчивость (сигнала, почерка и т. п.)
+2) вразумительность, понятность, доступность
+3) разборчивость речи, понятность речи, артикуляция
+--the quality of language that is comprehensible
+-- Easy to understand; able to be understood; comprehensible
+
+comprehensible [kɔmprɪˈhensəbl] adjective
+1. понятный, постижимый (understandable)
+2. приемлемый (acceptable)
+
+intermittent [,ıntəˈmıtǝnt]
+occurring occasionally or at regular or irregular intervals; periodic
+
+excessive /ɪkˈsesɪv/
+1) much more than is reasonable or necessary:
+ /his excessive drinking
+ /$15 for two beers seems a little excessive.
+2) exceeding the normal or permitted extents or limits; immoderate; inordinate
+
+cede [siːd] 
+1. уступать, уступить, переуступить (concede, assign)
+2. передавать, передать, отдать (transmit, give)
+3. сдавать (hand over)
+	/never cede control to the client within a synchronized method or block.
+
+deed [diːd] 
+1. поступок, деяние, подвиг, документ, акт (act, feat, document)
+        heroic deed - героический поступок
+        righteous deed - праведное деяние
+        immortal deeds - бессмертные подвиги
+        title deed - правовой документ
+        transfer deed - передаточный акт
+2. действие (action)
+        real deeds - реальные действия
+3. факт, дело (fact, affair)
+        do good deeds - делать добрые дела
+4. грамота (diploma)
+5. свершение (accomplishment)
+        great deeds - великие свершения
+
+contrived [kənˈtraɪvd] 
+1) запутанный (confusing)
+2) надуманный; неестественный, напускной, натянутый
+
+plummet [ˈplʌmɪt] 
+1. грузило, отвес, погружной грузик (sinker, plumb)
+2. свинцовый отвес
+3. рухнуть (collapse)
+4. резко падать (fall sharply)
+
+atrocious [əˈtrəʊʃəs] 
+1. жестокий, зверский (brutal)
+        atrocious crime - зверское преступление
+2. ужасный, чудовищный, отвратительный (terrible, hideous)
+        atrocious weather - отвратительная погода
+
+plummet [ˈplʌmɪt] 
+1. грузило, отвес, погружной грузик (sinker, plumb)
+2. свинцовый отвес
+3. рухнуть (collapse)
+4. резко падать (fall sharply)
+
+excessively [ɪkˈsesɪvlɪ] adverb
+1. чрезмерно, чересчур, слишком, излишне, непомерно (overly, too, unreasonably)
+        /excessively high - чрезмерно высокий
+2. до крайности
+
+
+susceptible [səˈseptəbl] 
+1. восприимчивый, чувствительный, впечатлительный (receptive, sensitive, impressionable)
+        susceptible person - восприимчивый человек
+        susceptible strains - чувствительные штаммы
+2. влюбчивый (amorous)
+3. обидчивый (touchy)
+4. подверженный, склонный (vulnerable, inclined)
+        susceptible to change - подвержен изменениям
+5. поддающийся (amenable)
+6. уязвимый
+
+amenable [əˈmiːnəbl] 
+1. сговорчивый (accommodating)
+2. ответственный (accountable)
+3. поддающийся (verifiable)
+
+touchy [ˈtʌʧɪ] adjective
+1. обидчивый, раздражительный, чувствительный, щекотливый (sensitive, irritable)
+        /touchy subject - щекотливая тема
+2. трогательный (touching)
+
+far-fetched [ˌfɑːˈfeʧt]
+1) натянутый, неестественный, искусственный (об аргументе, замечании, сравнении)
+2) (уствревшее) принесённый, привезённый издалека; дошедший из старины
+3) восходящий к далёкому предку (в генеалогии)
+
+corollary - [kəˈrɒləri ] & [ˈkɔːrəleri]
+1. следствие, результат, вывод, итог, последствие (consequence, result)
+        important corollary - важное следствие
+2. вывод, заключение (conclusion)
+        obvious corollary - очевидный вывод
+1) a proposition that follows directly from the proof of another proposition
+2) an obvious deduction
+3) a natural consequence or result
+4) consequent or resultant
+
+obsolete [ˈɔbsəliːt] & [ɑːbsəˈliːt]
+1. устаревший, устарелый (outdated)
+        obsolete technology - устаревшая технология
+2. старый (old)
+        obsolete equipment - старое оборудование
+3. отсталый (backward)
+4. обветшалый (dilapidated)
+5. вышедший из употребления (out of use)
+6. отживший (outdated)
+7. атрофированный(atrophied)
+1) устарелый; вышедший из употребления; старомодный
+2) биол. исчезающий, остаточный, рудиментарный

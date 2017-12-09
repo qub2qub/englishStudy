@@ -1,0 +1,11 @@
+Your team will most likely need to embrace feature flags so that incomplete features do not affect customers in production.
+
+Your documentation process will need to keep up with the pace of deployments.
+
+Then you would ramp up your testing culture and...
+
+These functions will need to adapt to the new cadence of releases, and it is important that they do not miss on significant changes that can impact customers.
+
+What it was like introducing Meghan to your father?
+
+

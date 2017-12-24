@@ -1,0 +1,111 @@
+carry out [ˈkærɪ aʊt] 
+1. проводить, провести, осуществлять, выполнять, выполнить, осуществить, исполнять, совершать, исполнить, вынести, уносить, выносить
+    (carry, hold, perform)
+2. производить, произвести     (produce)
+3. вести     (conduct)
+4. реализовать, осуществить, проводить в жизнь  (implement)
+
+
+acknowledgement [əkˈnɔlɪʤmənt] 
+1. подтверждение, признание (confirmation, recognition)
+        official acknowledgement - официальное подтверждение
+        public acknowledgement - общественное признание
+2. благодарность, признательность (gratitude, appreciation)
+3. расписка (receipt)
+4. квитирование, подтверждение приема (handshake)
+5. выражение признательности (expression of gratitude)
+
+genuinely [ˈʤenjʊɪnlɪ] 
+    1 неподдельно, подлинно, истинно, поистине (truly)
+        genuinely democratic - подлинно демократический
+    2 искренне (sincerely)
+
+interrogation [ɪnterəʊˈgeɪʃn] noun
+1. допрос, опрос (questioning, poll)
+        police interrogation - полицейский допрос
+        video recording of interrogations - видеозапись допросов
+        interrogation signal - сигнал опроса
+2. ведение допросов
+3. дознание (inquiry)
+4. опрашивание (polling)
+
+evaluation [ɪvæljʊˈeɪʃn] noun
+1. оценка, оценивание, анализ, определение, проведение оценки 
+	(assessment, analysis, definition)
+        evaluation criterion - критерий оценки
+        noise evaluation method - метод оценки шума
+        result of this evaluation - результат оценки
+        comparative evaluation - сравнительная оценка
+        expert evaluation - экспертное оценивание
+2. вычисление, расчет (calculation)
+        lazy evaluation - ленивое вычисление
+3. экспертиза, обследование (examination)
+
+praise [preɪz] verb
+1. хвалить, восхвалять, превозносить, похвалить, расхваливать, нахваливать, расхвалить
+    (commend, extol, tout)
+2. прославлять, славословить, славить, прославить, восхвалить, воспевать, воспеть, величать, восславить (glorify, call)
+3. благодарить (thank)
+4. ценить (appreciate)
+5. воздавать хвалу
+6. высоко отозваться
+
+mindful [ˈmaɪndfʊl] 
+    заботливый, внимательный (careful, attentive)
+    помнящий (remembering)
+
+expertise [ekspɜːˈtiːz] 
+1. экспертиза, экспертная оценка (examination, peer review)
+        expertise of industrial safety - экспертиза промышленной безопасности
+2. компетентность, компетенция, профессиональная компетенция
+    (competence, professional competence)
+        functional expertise - профессиональная компетенция
+3. мастерство, умение, навыки, знание (skill, knowledge)
+        technological expertise - технологическое мастерство
+4. квалификация, специализация (qualification, specialization)
+        professional expertise - профессиональная квалификация
+5. опыт, практический опыт, профессиональный опыт
+    (experience, practical experience, professional experience)
+        design expertise - опыт проектирования
+6. экспертные знания, специальные знания (special knowledge)
+7. эксперт, профессионализм
+
+perks [pɜːks]
+A1_1 something that you get legally from your work in addition to your wages, such as goods, meals, or a car:
+ /theatre tickets and other perks
+ /the perks of working at a large law firm
+ /I only eat here because it’s free – one of the perks of the job.
+
+B2_1  to become more cheerful, active, and interested in what is happening around you, or to make someone feel this way:
+ /She seemed kind of tired, but she perked up when Helen came 
+ perk somebody ↔ up
+ /There’s no doubt coffee perks you up.
+B2_2. to become more active, more interesting, more attractive etc, or to make something do this
+perk something ↔ up
+ /A little chili will perk up the sauce.
+
+ revised [rɪˈvaɪzd] 
+1. исправленный, переработанный, пересмотренный, обновленный, уточненный, откорректированный
+    (fixed, processed, reconsidered, updated, refined, adjusted)
+2. пересматриваемый
+
+resign [rɪˈzaɪn]
+1. 1) (часто from) отказываться от должности; слагать с себя обязанности
+(retire, submit to resignation, quit)
+2) уйти в отставку
+2. отказываться (от права и т. п.) (abandon, refuse)
+3. передавать (на чьё-л. попечение и т. п.)
+4. (часто pass или refl) уступать, примиряться; подчиняться
+5. (обыкн. refl) предаваться (чему-л.)
+6. сдать партию (шахматы)
+7. сдаваться, сдаться (give up, surrender)
+8. покоряться, покориться, подчиниться (obey, submit)
+
+redundancy [rɪˈdʌndənsɪ] noun
+1. избыточность, избыток, чрезмерность, резервирование, дублирование, излишество, излишек (excess, backup, duplication, surplus)
+        data redundancy - избыточность данных
+        full redundancy - полное резервирование
+2. многословие (verbosity)
+3. сокращение Штатов, увольнение (layoff)
+4. резерв (standby)
+5. избыточная информация

@@ -117,3 +117,13 @@ It is imperative that the user manually synchronize on the returned map
 ...but this flexibility comes at a price.
 
 While this example may seem a bit far-fetched, it’s not uncommon to see smt
+
+it is worth the effort.
+
+an ill-designed serialized form can be crippling.
+
+ignoring for the moment that you’d be better off using one of the standard List implementations
+
+it’s also fine to pick a number out of thin air.
+
+

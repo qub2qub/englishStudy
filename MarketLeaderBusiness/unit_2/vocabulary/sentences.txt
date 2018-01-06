@@ -126,4 +126,9 @@ ignoring for the moment that you’d be better off using one of the standard Lis
 
 it’s also fine to pick a number out of thin air.
 
+Prior occupancy of a niche tends to discourage competitors. - Предварительное занятие ниши, как правило, препятствует конкурентам.
+
+because you now know what something is a list of
+
+The Java 8 designers could almost have stopped here, and perhaps they would have done so before multicore CPUs! 
 

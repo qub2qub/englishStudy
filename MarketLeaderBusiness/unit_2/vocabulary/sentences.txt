@@ -132,3 +132,21 @@ because you now know what something is a list of
 
 The Java 8 designers could almost have stopped here, and perhaps they would have done so before multicore CPUs! 
 
+We all know that a feature or concept that’s cumbersome to use will be avoided.
+
+They enable you to improve your code one step further by making it a little more concise.
+
+Good code should be easy to comprehend at a glance. 
+
+Enough suspense;
+
+We’ve now tackled the verbosity issue. 
+
+to go beyond the problem domain you’re thinking of right now
+
+You may have already used this pattern in practice. 
+
+we teach you about a new feature that tackles this problem
+
+The net result - Конечный результат
+The net result is that

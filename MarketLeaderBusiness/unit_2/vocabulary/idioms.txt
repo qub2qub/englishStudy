@@ -6,3 +6,8 @@ careful scrutiny - тщательная проверка
 slap yourself on the forehead - хлопнуть себя по лбу
 
 so you are probably better off with the bounded type token unless you need the flexibility to combine operations of multiple implementation types.
+
+STRING SB ALONG - to deceive someone for a long time about what you are really intending to do:
+/She's been promising to pay back the money for six months, but I think she's just stringing me along.
+/He strung her along for years, saying he'd marry her and divorce his wife.
+

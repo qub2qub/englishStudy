@@ -150,3 +150,14 @@ we teach you about a new feature that tackles this problem
 
 The net result - Конечный результат
 The net result is that
+
+Price is determined through the interaction of demand and supply.
+
+Embrace the power of ...smt
+
+In pre-lambda Java, even a simple use case like this is cumbersome to implement, as shown in the following listing.
+
+The difference between .. and .. is even more pronounced if you perform ..
+
+You should never take for granted that ..
+

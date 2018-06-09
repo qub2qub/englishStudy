@@ -1,0 +1,4 @@
+E:\English\_market leader DVD\VIDEO_TS
+e:\English\_market leader DVD\DATA\video_scripts\
+.+\[<p align="left">(.+)</p>]]></text>
+$1\n

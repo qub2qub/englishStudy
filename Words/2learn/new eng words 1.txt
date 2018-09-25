@@ -1,0 +1,259 @@
+Database systems have subtle bugs and oddities -- Системы баз данных имеют тонкие ошибки и странности
+he just wished it would all blow over somehow. -- он просто хотел, чтобы все как-то прошло.
+I have an announcement to make -- Я хочу сделать объявление
+In this article I’ll fill you in on exactly what every working programmer should know. -- В этой статье я расскажу о том, что должен знать каждый работающий программист.
+Back in the semi-olden days, --- Назад в былые времена,
+devious purposes -- коварные цели
+..which, if you were wicked, you could use for your own devious purposes -- .. который, если бы вы были злыми, вы могли бы использовать для своих собственных коварных целей
+to peel onions --- очистить лук
+top notch (noun) -- высшее качество (superior quality)
+Top notch development teams don’t torture their programmers. -- Первоклассные команды разработчиков не мучают своих программистов.
+Programmers are notoriously crabby about making schedules -- Программисты очень не любят планы
+/As Excel 5 was nearing completion, I started working on the Excel 6 spec
+shoddiest = низкопробнейший
+make a big stink about  = сделать большой скандал
+
+tune out [tjuːn aʊt] отключиться, отключать (pass out, unplug) / they are fully tuned out of their environment.
+
+crabby [ˈkræbɪ] раздражительный, вспыльчивый (irritable, irascible)
+grumpy [ˈgrʌmpɪ] adjective
+1. сварливый, раздражительный, ворчливый (quarrelsome, irritable, grouchy)
+2. сердитый, угрюмый (angry, sullen)
+3. несдержанный (intemperate)
+
+peel [piːl] noun
+1. кожура, кожица, шелуха (rind, skin, husk)
+        banana peel - банановая кожура
+2. корка, корочка (crust)
+        orange peel - апельсиновая корка
+3. пилинг, отшелушивание, отслаивание, шелушение (peeling)
+        chemical peel - химический пилинг
+4. цедра (zest)
+        lemon peel - лимонная цедра
+
+peel [piːl] verb
+1. очищать, очистить, чистить, почистить, счищать (cleanse, clean, brush)
+2. отслаиваться, облупиться, облезать, осыпаться, отслоиться (exfoliate, peel off, crumble)
+3. слезть, слезать (get off, dismount)
+4. шелушиться (flake)
+5. лупить (beat)
+6. ободрать (skin)
+7. начистить (polish)
+
+oddity [ˈɔdɪtɪ] noun
+1. странность, чудаковатость (strangeness, drollery)
+2. чудак, чудачка (oddball)
+3. курьез, диковинка (curiosity) 
+    /historical oddity - исторический курьез
+4. причуда, бзик, чудачество (quirk, eccentricity)
+
+touted [ˈtaʊtɪd] (participle) разрекламированный (advertised)
+
+balk [bɔːk] verb
+1. упираться, артачиться (abut)
+2. препятствовать, мешать, воспрепятствовать (impede, interfere)
+3. отказываться, отказаться (reject, refuse)
+4. уклоняться (evade)
+5. заартачиться
+6. игнорировать, проигнорировать (dismiss)
+7. не оправдать
+
+incentive [ɪnˈsentɪv] noun
+1. стимул, побудитель (stimulus)
+        financial incentive - финансовый стимул
+        incentive for further development - стимул для дальнейшего развития
+2. побуждение, мотивация (motivation)
+        additional incentive - дополнительная мотивация
+3. стимулирование, поощрение (stimulation, promotion)
+        economic incentive - экономическое стимулирование
+4. побудительный мотив, мотив, побудительная причина (motive)
+5. материальное стимулирование, материальный стимул, материальное поощрение
+    (material incentive, material encouragement)
+6. льгота (benefit) /tax incentive - налоговая льгота
+
+abridge [əˈbrɪʤ] verb
+1. сокращать, сократить, урезать (shorten, curtail)
+        abridged version - сокращенный вариант
+2. ограничивать, ограничить (confine)
+
+remain [rɪˈmeɪn] verb
+1. оставаться, находиться, пребывать, остаться, пробыть (stay, be)
+        remain in force - оставаться в силе
+        remaining sum - оставшаяся сумма
+2. сохраняться (persist)
+3. сохраниться, продолжать (continue)
+4. продолжает оставаться (remains)
+
+obsessed [əbˈsest] participle
+1. помешанный (mad)
+2. увлеченный, поглощенный (fascinated, absorbed)
+3. одержимый (obsessive)
+/all of which were obsessed with outdoing the other while the customer (hopefully!) reaps the rewards.
+
+dismayed [dɪsˈmeɪd] participle
+1. встревоженный, потрясенный (alarmed, shaken)
+2. растерянный (confused)
+3. (adjective) испуганный (frightened) /I’ve been dismayed to discover
+
+blithely [ˈblaɪðlɪ] adverb
+1. беспечно (carelessly)
+2. весело, жизнерадостно (cheerfully)
+
+darn [dɑːn] verb
+1. verb штопать, чинить, заштопать (mend)
+2. verb "чёрт подери!"
+3. adjective проклятый, чертов (damn) /darn thing - проклятая штука
+4. adjective ужасный (horrible)
+5. noun штопка (darning)
+6. noun черт (damn)
+
+torture [ˈtɔːʧə] verb
+1. мучить, пытать, замучить, истязать, терзать (torment)
+        torture animals - мучить животных
+        torture prisoners - пытать заключенных
+2. подвергнуть пытке
+3. пытка, истязание, мучение, мука, издевательство (torment, mockery)
+        bore signs of torture - следы пыток
+        continuous torture - сплошное мучение
+        eternal tortures - вечные муки
+4. пыточный  /torture center - пыточный центр
+
+grumpy [ˈgrʌmpɪ] adjective
+1. сварливый, раздражительный, ворчливый (quarrelsome, irritable, grouchy)
+2. сердитый, угрюмый (angry, sullen)
+3. несдержанный (intemperate)
+
+grouch [graʊʧ] /old grouch - старый брюзга
+1. брюзга, ворчун (grumbler) 
+2. дурное настроение (bad mood)
+3. брюзжать (grumble)
+
+reluctant [rɪˈlʌktənt] /reluctant smile - неохотная улыбка
+1. сопротивляющийся (resisting)
+2. вынужденный (forced)
+3. отказывающийся (refusing)
+4. неохотно, поневоле (with reluctance)
+5. с неохотой, с большой неохотой (with reluctance, with great reluctance)
+6. неохотный (unwilling) 
+
+profoundly [prəˈfaʊndlɪ] /sounds right but gives you a profoundly wrong result
+1. глубоко, углубленно (deeply)
+2. серьезно, сильно (seriously, strongly)
+3. крайне, очень (highly)
+4. глубокомысленно (thoughtfully)
+5. основательно (thoroughly)
+
+perpetual [pəˈpeʧʊəl] /perpetual optimism
+1. вечный, нескончаемый, бесконечный, извечный, непреходящий (eternal, endless)
+        perpetual calendar - вечный календарь
+2. непрерывный, постоянный, беспрерывный (continual, permanent)
+        perpetual war - непрерывная война
+        perpetual neutrality - постоянный нейтралитет
+3. бессрочный, пожизненный (indefinite, lifelong)
+4. непрекращающийся, беспрестанный, непрестанный (incessant)
+
+long-winded stories = многословные истории
+wind up = to end something /you’ll wind up with a narrow range of possible ship dates.
+wind up [wɪnd ʌp] verb
+1. заводить, завести (start)
+2. наматывать, сматывать (reel, wind)
+3. завершать, заканчивать, кончать (finish, end)
+4. очутиться (find yourself)
+5. ликвидировать (close)
+6. взвинтить (raise)
+
+painstaking [ˈpeɪnzteɪkɪŋ] 
+1. тщательный, скрупулезный (thorough, scrupulous)
+        painstaking analysis - тщательный анализ
+2. кропотливый, трудоемкий, и кропотливый (laborious)
+        painstaking labor - кропотливый труд
+        painstaking process - трудоемкий процесс
+3. старательный, усердный (diligent)
+
+disconcerting [dɪskənˈsɜːtɪŋ] 
+1. дезориентирующий (misleading)
+2. обескураживающий (discouraging)
+3. смущающий (embarrassing)
+4. приводящий в замешательство (puzzling)
+5. сбивающий с толку (confusing)
+6. тревожный (disturbing)
+7. замешательство, смущение (confused, confusing)
+
+deliberately [dɪˈlɪbərɪtlɪ] adverb
+1. умышленно, преднамеренно, нарочно, намеренно, нарочито, подчеркнуто
+    (intentionally, purposely, emphatically)
+2. сознательно, целенаправленно, осознанно (consciously, purposefully)
+3. обдуманно, осторожно, осмотрительно, взвешенно (advisedly, carefully)
+4. специально (specially)
+5. заведомо (knowingly)
+6. демонстративно (demonstratively)
+
+prudent [ˈpruːdənt] 
+1. разумный, благоразумный, осторожный, расчетливый, предусмотрительный, рассудительный, осмотрительный, мудрый
+    (reasonable, cautious, shrewd, wise)
+        prudent wife - разумная жена
+        prudent policy - благоразумная политика
+        prudent approach - осторожный подход
+        prudent person - предусмотрительный человек
+2. бережливый (thrifty)
+3. консервативный (conservative)
+4. продуманный (thoughtful)
+5. экономный (economical)
+6. взвешенный (weighted)
+7. сдержанный (restrained)
+
+albeit [ɔːlˈbiːɪt] conjunction
+    хоть/хотя, пусть (although, though)
+
+ruthless [ˈruːθlɪs] безжалостный, беспощадный, жестокий (merciless, cruel)
+  /ruthless exploitation - безжалостная эксплуатация
+  /ruthless killer - беспощадный убийца
+  /ruthless criminals - жестокие преступники
+
+impose [ɪmˈpəʊz] 
+1. налагать, возлагать, облагать, накладывать, наложить, обложить (levy, lay, superimpose, besiege)
+        impose taxes - облагать налогами
+        impose a fine - наложить штраф
+2. навязывать, насаждать, навязать, насадить (enforce, plant)
+        impose peace - навязать мир
+3. ввести, вводить (introduce)
+        impose sanctions - ввести санкции
+        impose restrictions - вводить ограничения
+4. установить, устанавливать (establish)
+5. навести, наводить (bring, suggest)
+6. назначать, назначить (appoint)
+7. применять (apply)
+8. предъявлять (make)
+9. взимать (charge)
+
+badger [ˈbæʤə] барсук, барсучий
+
+badger [ˈbæʤə] verb /Don’t let managers badger developers into shorter estimates.
+1. изводить (harass)
+2. дразнить (taunt)
+3. приставать (molest)
+4. выклянчивать
+
+inept [ɪˈnept] adjective
+1. неумелый, некомпетентный, бездарный, неуклюжий (incompetent, talentless, clumsy)
+        inept attempt - неумелая попытка
+2. неподходящий (unsuitable)
+3. глупый (foolish)
+4. неуместный (inappropriate)
+/Inept managers try to address this by figuring out how to get people to work faster.
+
+shoddy [ˈʃɔdɪ] adjective
+1. низкопробный, дрянной
+2. некачественный, низкосортный (poor quality), низкого качества (base, trashy)
+        shoddy construction - некачественное строительство
+3. дешевый (cheap)
+4. убогий (wretched)
+5. поддельный (fake)
+
+comprehend [kɔmprɪˈhend] (understand, grasp, conceptualize)
+1. постигать, понимать, осмысливать, понять, постичь, постигнуть, осмыслить, осознать, осмыслять, разуметь 
+        /comprehend the situation - понять ситуацию
+        /comprehend the truth - постичь истину
+2. охватывать, объять, охватить (encompass, embrace)
+3. воспринимать, познать (perceive)
+4. уразуметь (enlighten)
